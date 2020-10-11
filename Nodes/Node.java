@@ -17,6 +17,7 @@ public class Node {
     }
 
     public static void main(String[] args) {
+        // TEST
         Node strawberry = new Node("Strawberry First");
         Node banana = new Node("Banana Second");
         Node coconut = new Node("Coconut Third");
